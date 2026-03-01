@@ -1,11 +1,9 @@
-# Scraping 2026 CBC Climate Coverage: How are the most recent climate
-articles discussing Canadian provinces and climate events?
+# Scraping 2026 CBC Climate Coverage: A Province and Impact Level Analysis of Recent CBC News Climate Articles 
 Siona Chisholm
 2026-02-25
+Unstructured Data Analytics Final Project
 
-This report analyzes recent CBC News articles to identify geographic
-focus areas and the narrative framing of climate change impacts across
-Canada.
+This report analyzes recent CBC News articles to identify the geographic location and the framing of climate change impacts across Canada in 2026.
 
 ``` python
 import requests
