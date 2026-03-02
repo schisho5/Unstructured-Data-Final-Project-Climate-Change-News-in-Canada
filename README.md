@@ -3,7 +3,7 @@ Siona Chisholm
 2026-02-25
 Unstructured Data Analytics Final Project
 
-This report analyzes recent CBC News articles to identify what locations and climate events are presented in Canada climate change coverage so far in 2026.
+This report analyzes recent CBC News articles to identify what locations and climate events are represented in Canada climate change coverage so far in 2026.
 
 ``` python
 import requests
